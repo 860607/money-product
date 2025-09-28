@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#0f1720"/>
+  <circle cx="512" cy="512" r="340" fill="#2563eb" opacity=".18"/>
+  <text x="512" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="92" fill="#e6eef8">Devenir Freelance</text>
+  <text x="512" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" fill="#a9b9d4">Guide pratique</text>
+</svg>
