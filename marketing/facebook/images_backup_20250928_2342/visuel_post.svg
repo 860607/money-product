@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#0f1720"/>
+  <rect x="80" y="120" width="920" height="360" rx="24" fill="#101a2a" stroke="#233452"/>
+  <text x="120" y="260" font-family="Arial, sans-serif" font-size="70" fill="#e6eef8">Devenir Freelance</text>
+  <text x="120" y="340" font-family="Arial, sans-serif" font-size="40" fill="#a9b9d4">7 jours - scripts - checklists</text>
+  <text x="120" y="420" font-family="Arial, sans-serif" font-size="44" fill="#7ee2a1">Prix : 14,90 EUR</text>
+  <text x="120" y="920" font-family="Arial, sans-serif" font-size="36" fill="#cfe0ff">https://860607.github.io/money-product/</text>
+</svg>

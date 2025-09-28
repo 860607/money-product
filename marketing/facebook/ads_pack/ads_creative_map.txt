@@ -1,0 +1,13 @@
+﻿[Association textes  visuels recommandée]
+
+CRÉAS (prises dans C:\Users\User\Desktop\money-product\marketing\facebook\images):
+- visuel_post.png (1080x1080)   Primary 3 ou 4 / Headline 3 ou 4
+- visuel_carrousel_1.png  Primary 1 ou 2 / Headline 1 ou 2
+- visuel_carrousel_2.png  idem
+- visuel_carrousel_3.png  idem
+- couverture_1640x856.png (1.91:1)  Primary 5 / Headline 5
+
+Conseils :
+- Tester 23 combinaisons en parallèle (1020 €/j / ad set).
+- Placements automatiques (exclure AN si CPA bizarre).
+- Attribution 7 j clic / 1 j vue.

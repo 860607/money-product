@@ -1,0 +1,12 @@
+﻿[LIENS UTM]
+
+Produit : Guide Pratique - Devenir Freelance
+Prix : 14,90 €
+
+URL (avec UTM standard Meta Ads) :
+https://860607.github.io/money-product/?utm_source=meta&utm_medium=cpc&utm_campaign=freelance_guide_lancement&utm_content={ad}
+
+Exemples dinsertions dynamiques (tu peux remplacer {ad} par le nom de lannonce/ensemble) :
+- =meta&utm_medium=cpc&utm_campaign=freelance_guide_lancement&utm_content=annonce_1
+- =meta&utm_medium=cpc&utm_campaign=freelance_guide_lancement&utm_content=carrousel_A
+
