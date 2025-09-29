@@ -1,0 +1,16 @@
+﻿Objet: Nouveau guide pratique  Guide Pratique : Devenir Freelance (à 9.99€)
+
+Bonjour [Prénom],
+
+J'ai créé un guide pratique intitulé \"Guide Pratique : Devenir Freelance\" qui aide [description brève, ex: 'les freelances à décrocher leurs 1ers clients en 30 jours'].
+Il contient : 01-intro, 02-week1, 03-emails
+
+Prix : 9.99€
+
+Page de présentation : (héberge index.html sur ton domaine ou GitHub Pages)
+Lien d'achat : https://example.com/ton-lien-de-paiement
+
+Si tu veux, je peux t'envoyer un exemplaire gratuit pour que tu me fasses un retour.
+
+Bien à toi,
+BIBI ONDOUA
